@@ -1,28 +1,26 @@
 # 🌸 Jardín para Mamá
 
-Un pequeño jardín interactivo hecho con HTML, CSS y JavaScript puro, creado como un detalle especial para mamá.  
-El proyecto genera una experiencia visual animada con flores, mariposas, pétalos flotando y cambios dinámicos según la hora del día.
+Un pequeño jardín interactivo creado con HTML, CSS y JavaScript puro como un detalle especial para mamá.  
+El proyecto genera una experiencia visual animada con flores, mariposas, pétalos flotando y un ambiente dinámico según la hora del día.
 
 ---
 
 ## ✨ Características
 
-- 🌅 Cambio automático de ambiente según la hora
+- 🌅 Cambio automático entre día y noche
 - 🌸 Flores animadas generadas con SVG
-- 🦋 Mariposas flotantes animadas
-- 🍃 Pétalos moviéndose por la pantalla
-- 🌙 Sistema de día y noche
-- 📱 Diseño responsive para móviles y escritorio
-- ⚡ Hecho completamente con Vanilla HTML, CSS y JavaScript
-- 🚀 Compatible con GitHub Pages y Vercel
+- 🦋 Mariposas flotando por el jardín
+- 🍃 Pétalos animados
+- 📱 Diseño responsive
+- ⚡ Hecho completamente sin frameworks
+- 🚀 Compatible con Vercel y GitHub Pages
 
 ---
 
 ## 📂 Estructura del proyecto
 
 ```plaintext
-jardin-mama/
-│
+/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -31,4 +29,6 @@ jardin-mama/
 ├── favicon-96x96.png
 ├── apple-touch-icon.png
 ├── site.webmanifest
+├── web-app-manifest-192x192.png
+├── web-app-manifest-512x512.png
 └── README.md
